@@ -23,7 +23,7 @@ import java.net.URL;
 import java.util.UUID;
 
 public class MyUtil {
-    private static String TAG = "ScreenShot";
+    private static String TAG = "Dio";
     private static String path;
     private static String[] PERMISSIONS_STORAGE = {
             "android.permission.READ_EXTERNAL_STORAGE",
